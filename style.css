@@ -1,0 +1,14 @@
+#title {
+    text-align: center
+}
+#yesbtn {
+  background-color: #4CFF00;
+  padding: 50px 50px;
+}
+#nobtn {
+  background-color: rgb(255, 0, 0);
+  padding: 50px 50px;
+}
+#myButtons {
+    text-align: center
+}
